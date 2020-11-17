@@ -1,2 +1,2 @@
 # crypto currency
-## Multipages website template using boostrap 4
+## Multipages website template using boostrap 4 & Sass
